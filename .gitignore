@@ -1,0 +1,4 @@
+/postgres/
+/raw/
+*.csv
+ESCOPO.md
